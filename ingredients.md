@@ -7,7 +7,7 @@
 # 1/2 teaspoon garam masala.
 # 1/2 teaspoon kasure methi.
 # 2 teaspoon cream.
-# vegetables:
+# Vegetables:
 # 1 large chopped onion.
 # 3/4 to 1 cup chopped tomatoes.
 # 2 chopped carrots.
